@@ -138,4 +138,4 @@ Here are some ideas to get you started:
 -->  
 </p>
 </br>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" margin-left= "auto" margin-right= "auto">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" display= "block" margin-left= "auto" margin-right= "auto">
